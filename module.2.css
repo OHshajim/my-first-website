@@ -1,0 +1,72 @@
+/* external  */
+*{
+    margin: 20px;
+    
+    
+    color: rgb(208, 230, 255);
+     background-image: url(space_11.webp); 
+     background-attachment: fixed;
+    background-size: cover ;
+    background-repeat: no-repeat;
+    font-style: italic;
+    font-family: serif;
+  
+}
+h1{
+    text-align:  center;
+    text-decoration: underline;
+    
+}
+
+h2{
+    text-align: center;
+}
+ nameofp{
+    display: block;
+    border: 2px solid purple ;
+}
+  div{ 
+    /* display: none; */
+    /* visibility: hidden;   */
+    padding: 5px;
+       font-size: small;
+       background-color: black;
+     
+      
+   }
+#planets{
+        border:solid black  3px;
+        border-style: groove;
+        
+        box-shadow: 9px 9px 50px rgb(0, 0, 0);
+
+
+}
+.planet {
+    border-radius: 10px;
+    
+    border-radius: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 550px;
+   
+}
+
+#exoplanet{
+    border:solid black  3px;
+    border-style: groove;
+    
+    box-shadow: 9px 9px 50px rgb(0, 0, 0);
+   
+}
+
+section img {
+   border-radius: 10px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 50%;
+   
+    
+}
